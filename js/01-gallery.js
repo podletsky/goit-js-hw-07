@@ -40,24 +40,3 @@ function clickOnPicture(evt) {
 }
 console.log(basicLightbox)
 
-//     })
-   
-
-
-// onShow: () => document.addEventListener("keydown",handleKeydown),
-// //         onClose: () => document.removeEventListener("keydown", handleKeydown),
-// //     })
-
-
-
-
-
-
-
-// // function onclick(evt) {
-// //     if (!evt.target.classList.contains("gallery")) {
-// //         return;
-// //     }
-// // }const currentCard = evt.target.closest("gallery");
-// //   const carId = Number(currentCard.dataset.carId);
-// //   const data = galleryItems.find(({ id }) => id === carId);t
